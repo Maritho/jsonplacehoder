@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "code": "7364784FGJDSGFSDJGH",
+      "price": "100000"
+    },
+    {
+      "id": 2,
+      "code": "8364784FGJDSGFSDJGH",
+      "price": "90000"
+    },
+    {
+      "id": 3,
+      "code": "10364784FGJDSGFSDJGH",
+      "price": "100000"
+    },
+    {
+      "id": 4,
+      "code": "11364784FGJDSGFSDJGH",
+      "price": "120000"
+    },
+    {
+      "id": 5,
+      "code": "127364784FGJDSGFSDJGH",
+      "price": "130000"
+    },
+    {
+      "id": 6,
+      "code": "137364784FGJDSGFSDJGH",
+      "price": "150000"
+    }
+    ]
+}
