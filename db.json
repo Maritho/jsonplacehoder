@@ -1,7 +1,7 @@
 {
     "product": [
       {
-        "productID": 1,
+        "id": 1,
         "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
         "productImages": "https://cdn.moladin.com/motor/kawasaki/Kawasaki_Ninja_250_FI_2100_67385_thumbnail.jpg",
         "productName": "Kawasaki Ninja 250 FI",
@@ -10,7 +10,7 @@
         "productPriceEnd": 70600000
       },
       {
-        "productID": 2,
+        "id": 2,
         "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
         "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_Aerox_155_2061_69083_thumbnail.jpg",
         "productName": "Kawasaki Ninja 250 FI",
@@ -19,7 +19,7 @@
         "productPriceEnd": 70600000
       },
       {
-        "productID": 3,
+        "id": 3,
         "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
         "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_Jupiter_Z1_2064_66857_thumbnail.jpg",
         "productName": "Kawasaki Ninja 250 FI",
@@ -28,7 +28,7 @@
         "productPriceEnd": 70600000
       },
       {
-        "productID": 4,
+        "id": 4,
         "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
         "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_MT_25_2057_66753_thumbnail.jpg",
         "productName": "Kawasaki Ninja 250 FI",
@@ -37,7 +37,7 @@
         "productPriceEnd": 70600000
       },
       {
-        "productID": 5,
+        "id": 5,
         "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
         "productImages": "https://cdn.moladin.com/motor/kawasaki/Kawasaki_Ninja_250_FI_2100_67385_thumbnail.jpg",
         "productName": "Kawasaki Ninja 250 FI",
