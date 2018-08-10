@@ -1,49 +1,54 @@
 {
-    "product": [
-      {
-        "id": 1,
-        "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
-        "productImages": "https://cdn.moladin.com/motor/kawasaki/Kawasaki_Ninja_250_FI_2100_67385_thumbnail.jpg",
-        "productName": "Kawasaki Ninja 250 FI",
-        "productCategory": "Kawasaki",
-        "productPriceStart": 59800000,
-        "productPriceEnd": 70600000
-      },
-      {
-        "id": 2,
-        "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
-        "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_Aerox_155_2061_69083_thumbnail.jpg",
-        "productName": "Kawasaki Ninja 250 FI",
-        "productCategory": "Kawasaki",
-        "productPriceStart": 59800000,
-        "productPriceEnd": 70600000
-      },
-      {
-        "id": 3,
-        "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
-        "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_Jupiter_Z1_2064_66857_thumbnail.jpg",
-        "productName": "Kawasaki Ninja 250 FI",
-        "productCategory": "Kawasaki",
-        "productPriceStart": 59800000,
-        "productPriceEnd": 70600000
-      },
-      {
-        "id": 4,
-        "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
-        "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_MT_25_2057_66753_thumbnail.jpg",
-        "productName": "Kawasaki Ninja 250 FI",
-        "productCategory": "Kawasaki",
-        "productPriceStart": 59800000,
-        "productPriceEnd": 70600000
-      },
-      {
-        "id": 5,
-        "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
-        "productImages": "https://cdn.moladin.com/motor/kawasaki/Kawasaki_Ninja_250_FI_2100_67385_thumbnail.jpg",
-        "productName": "Kawasaki Ninja 250 FI",
-        "productCategory": "Kawasaki",
-        "productPriceStart": 59800000,
-        "productPriceEnd": 70600000
-      }
-    ]
-  }
+  "product": [
+    {
+      "id": 1,
+      "productURL": "https://moladin.com/bengkel/kemeraan-sidoarjo",
+      "productImages": "https://cdn.moladin.com/bengkel/2344_71448_thumbnail.jpg",
+      "productName": "Kemeraan Sidoarjo",
+      "typeProduct": "Bengkel",
+      "productCategory": "Franchise",
+      "productPriceStart": 59800000,
+      "productPriceEnd": 70600000
+    },
+    {
+      "id": 2,
+      "productURL": "https://moladin.com/part-acc-motor/ban/irc-enviro-nr91-ban-tubeless-7090-14-34p-harian",
+      "productImages": "https://cdn.moladin.com/part-acc/ban/Enviro_NR91_323_36588_thumbnail.jpg",
+      "productName": "Enviro NR91 70/90 - 14 34P Harian",
+      "typeProduct": "Part &amp; ACC",
+      "productCategory": "Ban",
+      "productPriceStart": 59800000,
+      "productPriceEnd": 70600000
+    },
+    {
+      "id": 3,
+      "productURL": "https://moladin.com/apparel-motor/helm/nolan-n64-bastianini-full-face-hijau-flat-asphalt-black",
+      "productImages": "https://cdn.moladin.com/apparel/helm/N64_Bastianini_906_48634_thumbnail.jpg",
+      "productName": "N64 Bastianini Full-face",
+      "typeProduct": "Apparel",
+      "productCategory": "Helm",
+      "productPriceStart": 59800000,
+      "productPriceEnd": 70600000
+    },
+    {
+      "id": 4,
+      "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
+      "productImages": "https://cdn.moladin.com/motor/yamaha/Yamaha_MT_25_2057_66753_thumbnail.jpg",
+      "productName": "Kawasaki Ninja 250 FI",
+      "typeProduct": "Motor",
+      "productCategory": "Kawasaki",
+      "productPriceStart": 59800000,
+      "productPriceEnd": 70600000
+    },
+    {
+      "id": 5,
+      "productURL": "https://moladin.com/motor/kawasaki/kawasaki-ninja-250-fi-sports-4-langkah-2-silinder-segaris-dohc-250cc",
+      "productImages": "https://cdn.moladin.com/motor/kawasaki/Kawasaki_Ninja_250_FI_2100_67385_thumbnail.jpg",
+      "productName": "Kawasaki Ninja 250 FI",
+      "typeProduct": "Motor",
+      "productCategory": "Kawasaki",
+      "productPriceStart": 59800000,
+      "productPriceEnd": 70600000
+    }
+  ]
+}
