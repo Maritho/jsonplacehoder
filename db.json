@@ -30,7 +30,7 @@
       "productName": "Inova 2V Half-face",
       "productPriceNormal": 170500,
       "productPriceDiscount": 160500,
-      "productReviewReting": null,
+      "productReviewReting": 4.5,
       "productReview": 0
     },
     {
@@ -52,8 +52,8 @@
       "productName": "Milan Word Soccer Half-face",
       "productPriceNormal": 181500,
       "productPriceDiscount": null,
-      "productReviewReting": null,
-      "productReview": null
+      "productReviewReting": 2,
+      "productReview": 30
     }
   ]
 }
