@@ -1,59 +1,85 @@
 {
-  "product":[
-    {
-      "id": 1,
-      "SKU": "BUP-56471-00330",
-      "productURL": "https://moladin.com/apparel-motor/helm/nico-half-face",
-      "productImages": "https://cdn.moladin.com/apparel/helm/Nico_18351_74298_thumbnail.jpg",
-      "productName": "Nico Half-face",
-      "productPriceNormal": 160000,
-      "productPriceDiscount": 150000,
-      "productReviewReting": 3.4,
-      "productReview": 43
-    },
-    {
-      "id": 2,
-      "SKU": "BUP-56471-00331",
-      "productURL": "https://moladin.com/apparel-motor/helm/arrow-half-face-double-visor",
-      "productImages": "https://cdn.moladin.com/apparel/helm/Arrow_18349_74289_thumbnail.jpg",
-      "productName": "Arrow Half-face Double Visor",
-      "productPriceNormal": 163900,
-      "productPriceDiscount": 143900,
-      "productReviewReting": 4,
-      "productReview": 4
-    },
-    {
-      "id": 3,
-      "SKU": "BUP-56471-00332",
-      "productURL": "https://moladin.com/apparel-motor/helm/bmc-inova-r-hot-news-half-face-putih-hitam",
-      "productImages": "https://cdn.moladin.com/apparel/helm/Inova_2V_11038_74277_thumbnail.jpg",
-      "productName": "Inova 2V Half-face",
-      "productPriceNormal": 170500,
-      "productPriceDiscount": 130500,
-      "productReviewReting": 4.5,
-      "productReview": 0
-    },
-    {
-      "id": 4,
-      "SKU": "BUP-56471-00333",
-      "productURL": "https://moladin.com/apparel-motor/helm/milan-spain-half-face",
-      "productImages": "https://cdn.moladin.com/apparel/helm/Milan_Spain_18446_74612_thumbnail.jpg",
-      "productName": "Milan Spain Half-face",
-      "productPriceNormal": 231500,
-      "productPriceDiscount": 181500,
-      "productReviewReting": 5,
-      "productReview": 1
-    },
-    {
-      "id": 5,
-      "SKU": "BUP-56471-00334",
-      "productURL": "https://moladin.com/apparel-motor/helm/milan-world-soccer-half-face",
-      "productImages": "https://cdn.moladin.com/apparel/helm/Milan_World_Soccer_18335_74242_thumbnail.jpg",
-      "productName": "Milan Word Soccer Half-face",
-      "productPriceNormal": 181500,
-      "productPriceDiscount": null,
-      "productReviewReting": 2,
-      "productReview": 30
-    }
-  ]
+	"videos": [{
+			"id": 1,
+			"type": "header",
+			"banner-url": "https://www.youtube.com/embed/t2xQasfL6z4"
+		},
+		{
+			"id": 2,
+			"type": "header",
+			"banner-url": "https://www.youtube.com/embed/t2xQasfL6z4"
+		},
+		{
+			"id": 3,
+			"type": "header",
+			"banner-url": "https://www.youtube.com/embed/t2xQasfL6z4"
+		}
+	],
+
+	"banners": [{
+			"id": 1,
+			"type": "header",
+			"banner-url": "https://via.placeholder.com/1366x167.png"
+		},
+		{
+			"id": 2,
+			"type": "sidebar_opini_bikers",
+			"banner-url": "https://via.placeholder.com/488x203.png"
+		},
+		{
+			"id": 3,
+			"type": "sidebar_one",
+			"banner-url": "https://via.placeholder.com/488x203.png",
+			"data": [{
+					"id": 1,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				},
+				{
+					"id": 2,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"type": "sidebar_two",
+			"banner-url": "https://via.placeholder.com/488x203.png",
+			"data": [{
+					"id": 1,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				},
+				{
+					"id": 2,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				}
+			]
+		},
+		{
+			"id": 4,
+			"type": "sidebar_three",
+			"banner-url": "https://via.placeholder.com/488x203.png",
+			"data": [{
+					"id": 1,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				},
+				{
+					"id": 2,
+					"banner-url": "https://via.placeholder.com/238x198.png"
+				}
+			]
+		},
+		{
+			"id": 5,
+			"type": "contents_ads_one",
+			"data": [{
+					"id": 1,
+					"banner-url": "https://via.placeholder.com/799x99.png"
+				},
+				{
+					"id": 2,
+					"banner-url": "https://via.placeholder.com/799x99.png"
+				}
+			]
+		}
+	]
 }
