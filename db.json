@@ -19,23 +19,28 @@
 	"banners": [{
 			"id": 1,
 			"type": "header",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/1366x167.png"
 		},
 		{
 			"id": 2,
 			"type": "sidebar_opini_bikers",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/488x203.png"
 		},
 		{
 			"id": 3,
 			"type": "sidebar_one",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/488x203.png",
 			"data": [{
 					"id": 1,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				},
 				{
 					"id": 2,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				}
 			]
@@ -43,13 +48,16 @@
 		{
 			"id": 3,
 			"type": "sidebar_two",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/488x203.png",
 			"data": [{
 					"id": 1,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				},
 				{
 					"id": 2,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				}
 			]
@@ -57,13 +65,16 @@
 		{
 			"id": 4,
 			"type": "sidebar_three",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/488x203.png",
 			"data": [{
 					"id": 1,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				},
 				{
 					"id": 2,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/238x198.png"
 				}
 			]
@@ -73,10 +84,12 @@
 			"type": "contents_ads_one",
 			"data": [{
 					"id": 1,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/799x99.png"
 				},
 				{
 					"id": 2,
+					"landing_page": "https://dev.moladin.com/blog",
 					"banner_url": "https://via.placeholder.com/799x99.png"
 				}
 			]
@@ -84,6 +97,7 @@
 		{
 			"id": 6,
 			"type": "contents_ads_two",
+			"landing_page": "https://dev.moladin.com/blog",
 			"banner_url": "https://via.placeholder.com/799x99.png"
 		}
 	]
