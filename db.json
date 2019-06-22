@@ -80,6 +80,11 @@
 					"banner_url": "https://via.placeholder.com/799x99.png"
 				}
 			]
+		},
+		{
+			"id": 6,
+			"type": "contents_ads_two",
+			"banner_url": "https://via.placeholder.com/799x99.png"
 		}
 	]
 }
